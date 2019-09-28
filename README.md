@@ -6,8 +6,8 @@ This tool is developed by using C++. The Visual Studio in Windows or gcc/g++ com
 # Command line arguments
 Command line arguments for AEDT are:
 
--Length_D: Length of the data bit
--Length_R: Length of the parity bit
+Length_D: Length of the data bit
+Length_R: Length of the parity bit
 Length_Code: Length of the codeword
 Pattern_Cor_Num: Number of the error pattern to be corrected
 Pattern_Dec_Num: Number of the error pattern to be detected
