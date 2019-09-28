@@ -6,13 +6,13 @@ This tool is developed by using C++. The Visual Studio in Windows or gcc/g++ com
 # Command line arguments
 Command line arguments for AEDT are:
 
-Length_D: Length of the data bit
-Length_R: Length of the parity bit
-Length_Code: Length of the codeword
-Pattern_Cor_Num: Number of the error pattern to be corrected
-Pattern_Dec_Num: Number of the error pattern to be detected
-Stoping_time: Duration time of the running program
-Mode: [0] Correction; [1] Correction and Detection
-Injection_Num: The number of fault injection.
+- Length_D: Length of the data bit
+- Length_R: Length of the parity bit
+- Length_Code: Length of the codeword
+- Pattern_Cor_Num: Number of the error pattern to be corrected
+- Pattern_Dec_Num: Number of the error pattern to be detected
+- Stoping_time: Duration time of the running program
+- Mode: [0] Correction; [1] Correction and Detection
+- Injection_Num: The number of fault injection.
 # Authors
 The Tool is developed by Jiaqiang Li. Pedro Reviriego gives important suggestions to improve this tool. Lulu Liao and Zhaoqian zhang develop the GUI of the Tool.
