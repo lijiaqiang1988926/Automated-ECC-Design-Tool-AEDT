@@ -19,6 +19,6 @@ Command line arguments for AEDT are:
 - Mode: [0] Correction; [1] Correction and Detection
 - Injection_Num: The number of faults injected to test the codes.
 # License
-The users can use this tool for research purpose, but not for commercial applicaitons
+
 # Authors
 The Tool was developed by Jiaqiang Li. Lulu Liao and Zhaoqian Zhang developed the GUI of the Tool.  Pedro Reviriego was involved in the conceptual design of the tool.
