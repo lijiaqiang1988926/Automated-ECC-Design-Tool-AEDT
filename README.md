@@ -14,5 +14,7 @@ Command line arguments for AEDT are:
 - Stoping_time: Duration time of the running program
 - Mode: [0] Correction; [1] Correction and Detection
 - Injection_Num: The number of fault injection.
+# Usage statement
+The users can use this tool for research purpose, but not for commercial applicaitons
 # Authors
 The Tool is developed by Jiaqiang Li. Pedro Reviriego gives important suggestions to improve this tool. Lulu Liao and Zhaoqian zhang develop the GUI of the Tool.
