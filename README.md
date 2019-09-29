@@ -7,7 +7,7 @@ This tool is explained in detail in the paper:
 
 Please cite that paper in any publication that uses the tool.
 # Compilation
-This tool is developed by using C++. The Visual Studio in Windows or gcc/g++ compiler in Linux is needed.
+This tool is developed by using C++ and also shell command. The tool should be run in Lunix with gcc/g++ compiler.
 # Command line arguments
 Command line arguments for AEDT are:
 - Length_D: Length of the data bit
