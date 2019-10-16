@@ -25,7 +25,7 @@ int main(int argc, char *argv[]){
   ifstream fin;
 
   fout.open("Check.C");
-  fin.open("Set.txt");
+  fin.open("PSet.txt");
 
   unsigned char tmp[30];
   int cnt=100;
