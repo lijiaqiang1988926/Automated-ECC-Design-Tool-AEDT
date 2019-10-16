@@ -6,7 +6,6 @@
 
 #define P_in_length 10      // the size of the error pattern vector
 #define Pran_num 5          // the number of range for each error pattern
-//#define Stop_time 1*5*60    // hour * miniute * second
 
 using namespace std;
 
