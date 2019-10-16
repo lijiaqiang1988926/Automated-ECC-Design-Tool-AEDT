@@ -11,7 +11,7 @@ Injection_Num=1
 
 #ECC_Generate_Program
 g++ ECC_Search_Gen.C -o ECC_Search_Gen
-./ECC_Search_Gen $Length_D $Length_R $Pattern_Cor_Num $Pattern_Dec_Num $Stoping_time $Mode
+./ECC_Search_Gen  $Pattern_Cor_Num $Pattern_Dec_Num $Stoping_time $Mode
 g++ ECC_Search.C -o ECC_Search
 ./ECC_Search
 
